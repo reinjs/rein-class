@@ -1,0 +1,10 @@
+{
+  "name": "@reinjs/rein-class",
+  "version": "1.0.0",
+  "description": "The class constructor of rein's mvc rule",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:reinjs/rein-class.git"
+  }
+}
