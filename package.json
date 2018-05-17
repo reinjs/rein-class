@@ -1,6 +1,6 @@
 {
   "name": "@reinjs/rein-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The class constructor of rein's mvc rule",
   "main": "index.js",
   "repository": {

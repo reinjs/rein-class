@@ -32,4 +32,12 @@ module.exports = class BaseContextClass {
      */
     this.service = ctx.service;
   }
+  
+  /**
+   * @computed {Service} BaseContextClass#logger
+   * @returns {*}
+   */
+  get logger() {
+    return this.app.logger;
+  }
 };
